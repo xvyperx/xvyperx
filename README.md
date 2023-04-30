@@ -25,6 +25,6 @@
 </div>
 <br>
 
-- ☕ Me pague um café e vamos conversar | 👨🏾‍🎓 Cusrando Engenharia de Software - UniFatecie | 👩🏾‍💻 Estudando Desenvolvimento Web
+- ☕ Me pague um café e vamos conversar | 👨🏾‍🎓 Cursando Engenharia de Software - UniFatecie | 👩🏾‍💻 Estudando Desenvolvimento Web
 
 ![Snake animation](https://github.com/xvyperx/xvyperx/blob/output/github-contribution-grid-snake.svg)
