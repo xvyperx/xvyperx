@@ -1,14 +1,4 @@
 ### Olá! Eu sou **Leandro** Bem vindo ao meu perfil do GitHub 👋
-<pre>
-  <code>
-    // life motto
-if (sad() === true) {
-	sad().stop();
-	beAwesome();
-}
-
-  </code>
-</pre>
 ##
 
 [![Leandro Alves GitHub Stats](https://github-readme-stats.vercel.app/api?username=xvyperx&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/xvyperx/xvyperx)
