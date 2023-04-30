@@ -1,8 +1,8 @@
 ### Olá! Eu sou **Leandro** 👋
 ##
 
-![Leandro Alves GitHub Stats](https://github-readme-stats.vercel.app/api?username=xvyperx&count_private=true&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvyperx&hide_progress=compact&theme=chartreuse-dark)
+[![Leandro Alves GitHub Stats](https://github-readme-stats.vercel.app/api?username=xvyperx&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/xvyperx/xvyperx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvyperx&hide_progress=compact&theme=chartreuse-dark)](https://github.com/xvyperx/xvyperx)
 
 
 <div style="display: inline_block"><br>
@@ -27,4 +27,4 @@
 
 - ☕ Me pague um café e vamos conversar | 👨🏾‍🎓 Cusrando Engenharia de Software - UniFatecie | 👩🏾‍💻 Estudando Desenvolvimento Web
 
-![snake gif](https://github.com/xvyperx/xvyperx/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/xvyperx/xvyperx/blob/output/github-contribution-grid-snake.svg)
