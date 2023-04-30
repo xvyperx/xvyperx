@@ -27,4 +27,4 @@
 
 - ☕ Me pague um café e vamos conversar | 👨🏾‍🎓 Cusrando Engenharia de Software - UniFatecie | 👩🏾‍💻 Estudando Desenvolvimento Web
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/xvyperx/xvyperx/blob/output/github-contribution-grid-snake.svg)
