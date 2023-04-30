@@ -5,8 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvyperx&hide_progress=compact&theme=chartreuse-dark)](https://github.com/xvyperx/xvyperx)
 
 
-<div style="display: inline_block"><br>
-  <b>Estudando</b><img align="center" alguns=center alt="..." height="20" width="30" src="https://i.ibb.co/fn8n2Nv/reticencias-branco.gif"/><BR>
+<div style="display: inline_block" align="center"><br>
+  <b>Estudando</b><img align="center" alt="..." height="20" width="30" src="https://i.ibb.co/fn8n2Nv/reticencias-branco.gif"/><br>
 
   <img align="center" alt="VyperX-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="VyperX-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
