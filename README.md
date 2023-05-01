@@ -1,8 +1,13 @@
 ### Olá! Eu sou <b>Leandro</b> 👋
 ##
+<div align="center">
+  <a href="https://github.com/xvyperx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xvyperx&count_private=true&show_icons=true&icon_color=3fb950&theme=chartreuse-dark"</>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvyperx&custom_title=Tecnologias+usadas&layout=compact&theme=chartreuse-dark"</>
+</div>
 
-[![Leandro Alves GitHub Stats](https://github-readme-stats.vercel.app/api?username=xvyperx&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/xvyperx/xvyperx)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvyperx&hide_progress=compact&theme=chartreuse-dark)](https://github.com/xvyperx/xvyperx)
+
+
 
 
 <div style="display: inline_block" align="center"><br>
