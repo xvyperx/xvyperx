@@ -2,13 +2,10 @@
 ##
 <div align="center">
   <a href="https://github.com/xvyperx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xvyperx&count_private=true&show_icons=true&icon_color=3fb950&theme=chartreuse-dark"</>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvyperx&custom_title=Tecnologias+usadas&layout=compact&theme=chartreuse-dark"</>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xvyperx&count_private=true&show_icons=true&icon_color=3fb950&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvyperx&custom_title=Tecnologias+usadas&layout=compact&theme=chartreuse-dark"/>
+  <img src="https://streak-stats.demolab.com/?user=xvyperx&&locale=pt_BR&theme=chartreuse-dark&date_format=j%2Fn%5B%2FY%5D"/>
 </div>
-
-
-
-
 
 <div style="display: inline_block" align="center"><br>
   <b>Estudando</b><img align="center" alt="..." height="20" width="30" src="https://i.ibb.co/fn8n2Nv/reticencias-branco.gif"/><br>
